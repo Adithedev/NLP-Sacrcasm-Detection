@@ -1,0 +1,5 @@
+fasttext
+matplotlib
+pickle
+scikit-learn
+pandas
